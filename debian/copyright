@@ -1,0 +1,7 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: example
+Upstream-Contact: corey@sequestered.net
+Source: https://github.com/KB1JWQ/packaging-stub
+
+Files: *
+Copyright: 2013 Corey Quinn <corey@sequestered.net>

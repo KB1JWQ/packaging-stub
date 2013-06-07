@@ -1,0 +1,13 @@
+Source: example
+Section: admin
+Priority: optional
+Maintainer: Corey Quinn <corey@sequestered.net>
+Build-Depends: debhelper (>= 7.0.50)
+Standards-Version: 3.9.3
+Homepage: https://github.com/KB1JWQ/packaging-stub
+
+
+Package: example
+Architecture: all
+Depends: openjdk
+Description: Package for installing a war, done as a quick demo.
